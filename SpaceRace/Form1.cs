@@ -272,7 +272,7 @@ namespace SpaceRace
         {
             if (running)
             {
-                //end line
+                //end line  
                 e.Graphics.FillRectangle(greenBrush, 0, 50, width, 5);
 
                 //draw players
